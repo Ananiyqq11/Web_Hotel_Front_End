@@ -32,10 +32,14 @@ button{
 }
 .mainbtn{
    padding: 15px 40px;
-   background:none;
+   background:#7fc142;
    border: 2px solid white;
    font-weight: bold;
-   color: pink; 
+   color: white; 
+}
+.container{
+    max-width: 85%;
+    margin: auto;
 }
 header{
     height: 10vh;
@@ -44,7 +48,7 @@ header{
 }
 header img{
     margin: 20px 0;
-    height: 190px;
+    height: 90px;
 
 }
  header ul{
@@ -71,6 +75,7 @@ padding: 13px 40px;
 header .navlinks span{
 display:none;
 }
+/*
 @media only screen and (max-width:768px){
 header ul{
     position:absolute;
@@ -99,8 +104,10 @@ display: block;
 cursor: pointer;
 line-height: 10vh;
 font-size: 25px;
-
 }
 
-}
+*/
+
+
+
 
