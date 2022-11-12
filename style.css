@@ -32,7 +32,7 @@ button{
 }
 .mainbtn{
    padding: 15px 40px;
-   background:#7fc142;
+   background:#7942c1;
    border: 2px solid white;
    font-weight: bold;
    color: white; 
@@ -64,7 +64,7 @@ header img{
     transition: 0.5s;    
  }
  header ul li a:hover{
-    color: #7fc142;
+    color:#7942c1;
  }
 header i {
     margin: 0 20px;
@@ -75,6 +75,35 @@ padding: 13px 40px;
 header .navlinks span{
 display:none;
 }
+section img
+{
+    height: 500px;
+    max-width: max-content;
+    float: center;
+    margin-left: 250px;
+
+}
+.readbtn{
+
+    padding: 15px 40px;
+    background:#7942c1;
+    border: 2px solid white;
+    font-weight: bold;
+    color: white;
+}
+.contactbtn{
+
+    padding: 15px 40px;
+    background:#7942c1;
+    border: 2px solid white;
+    font-weight: bold;
+    color: white;
+}
+section .text {
+    margin-left: 450px;
+
+}
+
 /*
 @media only screen and (max-width:768px){
 header ul{
