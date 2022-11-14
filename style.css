@@ -47,8 +47,8 @@ header{
     padding: 0 20px;
 }
 header img{
-    margin: 20px 0;
-    height: 90px;
+    height: 50px;
+    width: 100%;
 
 }
  header ul{
@@ -77,10 +77,10 @@ display:none;
 }
 section img
 {
-    height: 500px;
     max-width: max-content;
+    width: 100%;
     float: center;
-    margin-left: 250px;
+    background-size: 100% 100%;
 
 }
 .readbtn{
