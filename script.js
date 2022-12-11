@@ -13,8 +13,8 @@ function menutoggle(){
         menulist.style.maxHeight=="0px";
     }
 }
-/*
+
 $(document).ready(function(){
     $(".owl-carousel").owlCarousel();
     });
-  */  
+    
